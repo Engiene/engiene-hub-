@@ -1,0 +1,10 @@
+Fuction _On_Pressed_ui(delta)
+{
+Var b = Button + SetOntouch
+b.btn = pressed 
+}
+
+Fuction ready()
+{
+Var l = la el + button
+}
