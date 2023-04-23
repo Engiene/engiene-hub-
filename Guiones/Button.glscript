@@ -1,0 +1,10 @@
+Fuction Button(pressed)
+{
+Var b = button
+b.label = pressed
+Print(pressed)
+}
+Fuction pressed (button)
+{
+Button = SetOntouch + pressed $button 
+}
